@@ -1,2 +1,2 @@
-# projeto_pw1
-Projeto inicial de programação web módulo 1.
+# Pw1_Scripts
+Projeto para JavaScript modular em sistema de Vue.Js (Vanilla) para aprendizagem de execução de micro web aplicações.
